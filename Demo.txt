@@ -1,1 +1,1 @@
-This is demo of Git.
+This is demo of Git. MY file is copied in second folder
